@@ -9,8 +9,9 @@ li{
 }
 
 ul, ol {
-  padding-left: 2em;
+  padding-left: 40px;
 }
+
 li > ul, li > ol {
-  padding-left: 1em;
+  padding-left: 10px;
 }
