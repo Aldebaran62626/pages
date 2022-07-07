@@ -1,4 +1,4 @@
-*{overflow-wrap:break-word;}
+*{word-break: break-all;}
 
 h1{
 	color:white;
