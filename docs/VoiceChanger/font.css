@@ -1,13 +1,7 @@
-<meta name="viewport" content="width=device-width,initial-scale=1">
-
-@media screen and (max-width:480px) {
- 
-	/*‚±‚ÌˆÊ’u‚É‹Lq‚·‚é*/
-	main {
-		width: 100%;
-	}
- 
+ul, ol {
+  padding-left: 3em;
 }
+
 h1{
 	color:white;
 	background-color:black;
