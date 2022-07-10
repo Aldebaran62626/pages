@@ -13,3 +13,8 @@ h1{
 li{
 	font-size: 16px;
 }
+
+ol {
+	padding-left: 40px;
+	padding-right: 10px;
+}
