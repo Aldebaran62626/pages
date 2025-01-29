@@ -10,30 +10,30 @@
 	}
 	
 	h2{
-		font-size: 12px;
+		font-size: 14px;
 	}
 	
 	body {
 		overflow-x: hidden;
-		font-size: 10px;
+		font-size: 12px;
 	}
 
 	li{
-		font-size: 10px;
+		font-size: 12px;
 	}
 
 	ol {
-		padding-left: 30px;
+		padding-left: 24px;
 	}
 
 	p.padding32{
-		padding-left: 10px;
-		font-size: 10px;
+		padding-left: 12px;
+		font-size: 12px;
 	}
 
 	li.padding32{
-		padding-left: 10px;
-		font-size: 10px;
+		padding-left: 12px;
+		font-size: 12px;
 	}
 }
 
